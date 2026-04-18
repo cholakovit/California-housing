@@ -1,0 +1,12 @@
+[project]
+name = "linearregression"
+version = "0.1.0"
+description = "OLS linear regression on California housing (Hugging Face) with sklearn pipeline and metrics"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "datasets>=4.8.4",
+    "pandas>=3.0.2",
+    "python-dotenv>=1.0.0",
+    "scikit-learn>=1.8.0",
+]
