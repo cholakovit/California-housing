@@ -1,3 +1,7 @@
+TASK: A property analytics team wants to estimate typical home values across different neighborhoods so they can prioritize expansion markets, support pricing discussions, and focus sales efforts on the most promising areas; they will use available neighborhood characteristics to produce consistent value estimates, compare two internal approaches on the same sample, and select the one that gives the most reliable business signal for day-to-day decision-making.
+
+----------------------------------------------------
+
 # Linear regression (California housing)
 
 Small demo: load the **California housing** tabular dataset from the Hugging Face Hub, fit **ordinary least squares** linear regression on numeric features, and report test metrics and coefficients.
